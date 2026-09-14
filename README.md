@@ -1,0 +1,2 @@
+# InferenceImageClassification
+Image classification service
