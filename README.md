@@ -1,7 +1,7 @@
 # Image Classification Service (BETA) v1.0
-The "Image Classification Service" is the interface to the backend LLM used to make predictions. The service can be use from an web app, IOS app or any other app.
-
 *NOTE: This service is still in beta using a custom self signed certificate.
+
+The "Image Classification Service" is the interface to the backend LLM used to make predictions. The service can be use from an web app, IOS app or any other app.
 
 Architecture:
 ![Architecture](assets/ClassificationApp.png)
